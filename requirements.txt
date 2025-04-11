@@ -1,0 +1,7 @@
+streamlit
+pytest
+pytest-mock
+pytest-cov
+pytest-html
+pytest-xdist
+pytest-bdd
